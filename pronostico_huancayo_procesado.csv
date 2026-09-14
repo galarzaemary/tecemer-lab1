@@ -1,0 +1,8 @@
+fecha,temp_max,temp_min,precipitacion,amplitud_termica,dia_lluvioso,categoria
+2026-09-14,20.5,6.0,8.2,14.5,True,cálido
+2026-09-15,18.9,9.1,14.6,9.799999999999999,True,templado
+2026-09-16,20.0,7.2,2.5,12.8,True,cálido
+2026-09-17,19.5,8.6,11.8,10.9,True,templado
+2026-09-18,19.5,8.8,20.7,10.7,True,templado
+2026-09-19,19.2,7.9,2.0,11.299999999999999,True,templado
+2026-09-20,18.8,5.2,0.3,13.600000000000001,True,templado
